@@ -1,0 +1,14 @@
+{
+  "workbench.colorCustomizations": {
+    "sash.hoverBorder": "#58b5fb",
+    "statusBar.background": "#269ffa",
+    "statusBar.border": "#269ffa",
+    "statusBar.foreground": "#15202b",
+    "statusBarItem.hoverBackground": "#0587e8",
+    "statusBarItem.remoteBackground": "#269ffa",
+    "statusBarItem.remoteForeground": "#15202b",
+    "tab.activeBorder": "#58b5fb"
+  },
+  "peacock.color": "#269ffa",
+  "marquee.widgets.npm-stats.packageNames": ["former-field"]
+}
